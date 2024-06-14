@@ -1,6 +1,6 @@
 .bg-hd {
   background: linear-gradient(#0000006f, #00000065),
-    url(/img/hero_1.jpg.webp) center/cover;
+    url(img/hero_1.jpg.webp) center/cover;
   height: 100vh;
 }
 .container{
